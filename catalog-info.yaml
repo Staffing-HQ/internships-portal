@@ -8,7 +8,7 @@ metadata:
     github.com/project-slug: Staffing-HQ/internships-portal
     backstage.io/techdocs-ref: dir:.
     gocd.org/pipelines: backstage,backstage-pr,backstage-builder
-    sonarqube.org/project-key: Staffing-HQ_interships-portal
+    sonarqube.org/project-key: Staffing-HQ_internships-portal
   tags:
     - internships
     - interns
