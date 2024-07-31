@@ -16,3 +16,4 @@ spec:
   type: website
   lifecycle: experimental
   owner: group:default/internship
+  dependsOn: ['api:internship-srv-api']
