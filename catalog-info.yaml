@@ -9,11 +9,11 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     gocd.org/pipelines: backstage,backstage-pr,backstage-builder
   tags:
-    - nextjs
-    - react
-    - ssr
+    - internships
+    - interns
 spec:
   type: website
   lifecycle: experimental
   owner: group:default/internship
+  system: internships-system
   dependsOn: ['api:internship-srv-api']
