@@ -1,0 +1,8 @@
+site_name: "internships-portal"
+site_description: "A website for managing interns & internships."
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
