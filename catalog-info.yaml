@@ -16,4 +16,4 @@ spec:
   lifecycle: experimental
   owner: group:default/internship
   system: internships-system
-  dependsOn: ['api:internship-srv-api']
+  dependsOn: ['api:internships-srv-api']
